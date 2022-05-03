@@ -1,0 +1,39 @@
+*{
+    font-family: "Comic Sans", sans-serif;
+}
+
+/*recipes*/
+h1.recipe{
+    font-size:100px;
+    text-align: center;
+}
+
+h2.recipe {
+    font-size:45px;
+}
+
+
+
+
+
+
+
+
+/* for main page */
+
+h1.main{
+    color: red;
+    font-family: "Comic Sans", sans-serif;
+    font-size: 150px;
+    text-align: center;
+}
+
+ol.main{
+    text-align: center;
+    font-size:50px;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
